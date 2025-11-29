@@ -1,0 +1,35 @@
+name: Update servers
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: "18"
+
+      - name: Install dependencies
+        working-directory: servers
+        run: npm install
+
+      - name: Run update.js
+        working-directory: servers
+        run: node update.js
+
+      - name: Commit JSON output
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add servers/db.json
+          git commit -m "update server db" || echo "no changes to commit"
+          git push
