@@ -13,8 +13,8 @@
             "port": 25567,
             "ip_address": "212.186.1.144",
             "eula_blocked": false,
-            "retrieved_at": 1764711199926,
-            "expires_at": 1764711259926,
+            "retrieved_at": 1764711857638,
+            "expires_at": 1764711917638,
             "srv_record": null,
             "version": {
                 "name_raw": "1.21.1",
@@ -33,10 +33,16 @@
                         "name_html": "<span><span>Fr0sty_Cl0ud</span></span>"
                     },
                     {
-                        "uuid": "ffc12d42-36b8-425a-9763-d8faed5c4571",
-                        "name_raw": "KingSerpion",
-                        "name_clean": "KingSerpion",
-                        "name_html": "<span><span>KingSerpion</span></span>"
+                        "uuid": "5f93d7bd-460d-4390-b2af-618d79426d25",
+                        "name_raw": "ahhfish",
+                        "name_clean": "ahhfish",
+                        "name_html": "<span><span>ahhfish</span></span>"
+                    },
+                    {
+                        "uuid": "94654942-ef93-4e3c-a1a7-b23c03a39a3e",
+                        "name_raw": "Castirus",
+                        "name_clean": "Castirus",
+                        "name_html": "<span><span>Castirus</span></span>"
                     },
                     {
                         "uuid": "4f39165e-c715-4279-8cd1-3886feec239a",
@@ -51,16 +57,10 @@
                         "name_html": "<span><span>Nekoma7</span></span>"
                     },
                     {
-                        "uuid": "022c9fd1-c9fd-4ffd-8ce0-62b0346c3506",
-                        "name_raw": "BanOvilTheSlav",
-                        "name_clean": "BanOvilTheSlav",
-                        "name_html": "<span><span>BanOvilTheSlav</span></span>"
-                    },
-                    {
-                        "uuid": "eb54a66d-2759-4abb-9be4-cc85cb0ef3e6",
-                        "name_raw": "MaxDam1",
-                        "name_clean": "MaxDam1",
-                        "name_html": "<span><span>MaxDam1</span></span>"
+                        "uuid": "ffc12d42-36b8-425a-9763-d8faed5c4571",
+                        "name_raw": "KingSerpion",
+                        "name_clean": "KingSerpion",
+                        "name_html": "<span><span>KingSerpion</span></span>"
                     },
                     {
                         "uuid": "4624f7f8-221f-4c2e-9a97-21a7b801fa4b",
@@ -69,16 +69,16 @@
                         "name_html": "<span><span>kuukyy</span></span>"
                     },
                     {
-                        "uuid": "94654942-ef93-4e3c-a1a7-b23c03a39a3e",
-                        "name_raw": "Castirus",
-                        "name_clean": "Castirus",
-                        "name_html": "<span><span>Castirus</span></span>"
+                        "uuid": "eb54a66d-2759-4abb-9be4-cc85cb0ef3e6",
+                        "name_raw": "MaxDam1",
+                        "name_clean": "MaxDam1",
+                        "name_html": "<span><span>MaxDam1</span></span>"
                     },
                     {
-                        "uuid": "5f93d7bd-460d-4390-b2af-618d79426d25",
-                        "name_raw": "ahhfish",
-                        "name_clean": "ahhfish",
-                        "name_html": "<span><span>ahhfish</span></span>"
+                        "uuid": "022c9fd1-c9fd-4ffd-8ce0-62b0346c3506",
+                        "name_raw": "BanOvilTheSlav",
+                        "name_clean": "BanOvilTheSlav",
+                        "name_html": "<span><span>BanOvilTheSlav</span></span>"
                     }
                 ]
             },
@@ -108,8 +108,8 @@
             "port": 25565,
             "ip_address": "136.243.118.35",
             "eula_blocked": false,
-            "retrieved_at": 1764711194188,
-            "expires_at": 1764711254188,
+            "retrieved_at": 1764711851732,
+            "expires_at": 1764711911732,
             "srv_record": {
                 "host": "copernicus.node.luunar.sh",
                 "port": 30003
@@ -125,28 +125,28 @@
                 "max": 250,
                 "list": [
                     {
-                        "uuid": "5deaf20d-2e1f-4526-9c91-eb2605b1f3cb",
-                        "name_raw": "GrenadeThief",
-                        "name_clean": "GrenadeThief",
-                        "name_html": "<span><span>GrenadeThief</span></span>"
-                    },
-                    {
-                        "uuid": "2221e198-5d72-4939-ad66-fdc038e8bf35",
-                        "name_raw": "TheSorcererMC",
-                        "name_clean": "TheSorcererMC",
-                        "name_html": "<span><span>TheSorcererMC</span></span>"
-                    },
-                    {
                         "uuid": "f8c7519b-5e1a-41ad-9eea-5b843f485b20",
                         "name_raw": "mimicdrip1987",
                         "name_clean": "mimicdrip1987",
                         "name_html": "<span><span>mimicdrip1987</span></span>"
                     },
                     {
+                        "uuid": "5deaf20d-2e1f-4526-9c91-eb2605b1f3cb",
+                        "name_raw": "GrenadeThief",
+                        "name_clean": "GrenadeThief",
+                        "name_html": "<span><span>GrenadeThief</span></span>"
+                    },
+                    {
                         "uuid": "e7295730-178f-4783-b40b-85f8d5a354e5",
                         "name_raw": "RocketAgent",
                         "name_clean": "RocketAgent",
                         "name_html": "<span><span>RocketAgent</span></span>"
+                    },
+                    {
+                        "uuid": "2221e198-5d72-4939-ad66-fdc038e8bf35",
+                        "name_raw": "TheSorcererMC",
+                        "name_clean": "TheSorcererMC",
+                        "name_html": "<span><span>TheSorcererMC</span></span>"
                     },
                     {
                         "uuid": "42fe1205-d837-488f-8b3f-5670f39510f0",
@@ -182,8 +182,8 @@
             "port": 25565,
             "ip_address": "88.211.228.45",
             "eula_blocked": false,
-            "retrieved_at": 1764711197559,
-            "expires_at": 1764711257559,
+            "retrieved_at": 1764711855285,
+            "expires_at": 1764711915285,
             "srv_record": {
                 "host": "_dc-srv.a3a1840e8cad._minecraft._tcp.harpy.lorenzloening.com",
                 "port": 25732
@@ -195,7 +195,7 @@
                 "protocol": 767
             },
             "players": {
-                "online": 4,
+                "online": 5,
                 "max": 9999,
                 "list": [
                     {
@@ -205,16 +205,22 @@
                         "name_html": "<span><span>shrewer</span></span>"
                     },
                     {
-                        "uuid": "cd65d384-cb09-4f41-88e7-576f5331ba70",
-                        "name_raw": "Thatotherplayer_",
-                        "name_clean": "Thatotherplayer_",
-                        "name_html": "<span><span>Thatotherplayer_</span></span>"
-                    },
-                    {
                         "uuid": "eeb85327-e0f5-43ce-8cac-33b1ba76e1fc",
                         "name_raw": "Bnadaid",
                         "name_clean": "Bnadaid",
                         "name_html": "<span><span>Bnadaid</span></span>"
+                    },
+                    {
+                        "uuid": "d1ea80d8-6665-4d46-b319-38842cc37fd3",
+                        "name_raw": "Molten_Delta4",
+                        "name_clean": "Molten_Delta4",
+                        "name_html": "<span><span>Molten_Delta4</span></span>"
+                    },
+                    {
+                        "uuid": "cd65d384-cb09-4f41-88e7-576f5331ba70",
+                        "name_raw": "Thatotherplayer_",
+                        "name_clean": "Thatotherplayer_",
+                        "name_html": "<span><span>Thatotherplayer_</span></span>"
                     },
                     {
                         "uuid": "84a4dc27-0d48-44f8-80ef-05c340411bc2",
@@ -249,8 +255,8 @@
             "port": 25565,
             "ip_address": "71.236.222.26",
             "eula_blocked": false,
-            "retrieved_at": 1764711193699,
-            "expires_at": 1764711253699,
+            "retrieved_at": 1764711851196,
+            "expires_at": 1764711911196,
             "srv_record": {
                 "host": "_dc-srv.27e703567964._minecraft._tcp.traingame.kncgaming.com",
                 "port": 25592
@@ -266,6 +272,12 @@
                 "max": 25,
                 "list": [
                     {
+                        "uuid": "35638ece-83d0-4243-9b83-e0332e8d661a",
+                        "name_raw": "datdownin",
+                        "name_clean": "datdownin",
+                        "name_html": "<span><span>datdownin</span></span>"
+                    },
+                    {
                         "uuid": "9a98a8c1-67f9-4eb0-be01-d5a1c9f98e75",
                         "name_raw": "Ardentine",
                         "name_clean": "Ardentine",
@@ -276,12 +288,6 @@
                         "name_raw": "DuckierHawk4222",
                         "name_clean": "DuckierHawk4222",
                         "name_html": "<span><span>DuckierHawk4222</span></span>"
-                    },
-                    {
-                        "uuid": "35638ece-83d0-4243-9b83-e0332e8d661a",
-                        "name_raw": "datdownin",
-                        "name_clean": "datdownin",
-                        "name_html": "<span><span>datdownin</span></span>"
                     }
                 ]
             },
@@ -308,8 +314,8 @@
             "port": 25592,
             "ip_address": "185.83.153.44",
             "eula_blocked": false,
-            "retrieved_at": 1764711200327,
-            "expires_at": 1764711260327,
+            "retrieved_at": 1764711858133,
+            "expires_at": 1764711918133,
             "srv_record": null,
             "version": {
                 "name_raw": "1.21.1",
@@ -355,8 +361,8 @@
             "port": 25565,
             "ip_address": "71.236.222.26",
             "eula_blocked": false,
-            "retrieved_at": 1764711196139,
-            "expires_at": 1764711256139,
+            "retrieved_at": 1764711853716,
+            "expires_at": 1764711913716,
             "srv_record": {
                 "host": "_dc-srv.f6952f0d4dfb._minecraft._tcp.loretraingame.kncgaming.com",
                 "port": 25591
@@ -404,8 +410,8 @@
             "port": 25565,
             "ip_address": "204.77.5.57",
             "eula_blocked": false,
-            "retrieved_at": 1764711197923,
-            "expires_at": 1764711257923,
+            "retrieved_at": 1764711855632,
+            "expires_at": 1764711915632,
             "srv_record": {
                 "host": "tmm.sleepyapril.net",
                 "port": 25567
@@ -444,8 +450,8 @@
             "port": 25565,
             "ip_address": "169.150.235.163",
             "eula_blocked": false,
-            "retrieved_at": 1764711201217,
-            "expires_at": 1764711261217,
+            "retrieved_at": 1764711859366,
+            "expires_at": 1764711919366,
             "srv_record": null,
             "version": {
                 "name_raw": "1.21.8",
@@ -481,8 +487,8 @@
             "port": 25565,
             "ip_address": "185.206.150.144",
             "eula_blocked": false,
-            "retrieved_at": 1764711208080,
-            "expires_at": 1764711268080,
+            "retrieved_at": 1764711866170,
+            "expires_at": 1764711926170,
             "srv_record": {
                 "host": "catattack40.modrinth.gg",
                 "port": 24449
@@ -525,8 +531,8 @@
             "port": 25565,
             "ip_address": "71.236.222.26",
             "eula_blocked": false,
-            "retrieved_at": 1764711199264,
-            "expires_at": 1764711259264,
+            "retrieved_at": 1764711856947,
+            "expires_at": 1764711916947,
             "srv_record": null
         }
     },
@@ -549,8 +555,8 @@
             "port": 25565,
             "ip_address": "147.185.221.194",
             "eula_blocked": false,
-            "retrieved_at": 1764711206608,
-            "expires_at": 1764711266608,
+            "retrieved_at": 1764711864743,
+            "expires_at": 1764711924743,
             "srv_record": null
         }
     },
@@ -566,8 +572,8 @@
             "port": 25580,
             "ip_address": "148.251.54.69",
             "eula_blocked": false,
-            "retrieved_at": 1764711213258,
-            "expires_at": 1764711273258,
+            "retrieved_at": 1764711871380,
+            "expires_at": 1764711931380,
             "srv_record": null
         }
     },
@@ -583,8 +589,8 @@
             "port": 25565,
             "ip_address": null,
             "eula_blocked": false,
-            "retrieved_at": 1764711213445,
-            "expires_at": 1764711273445,
+            "retrieved_at": 1764711871665,
+            "expires_at": 1764711931665,
             "srv_record": null
         }
     }
