@@ -1,5 +1,64 @@
 [
     {
+        "address": "catattack40.modrinth.gg",
+        "discord": null,
+        "tags": [],
+        "mods": [],
+        "statuspage": "https://mcstatus.io/status/java/catattack40.modrinth.gg",
+        "data": {
+            "online": true,
+            "host": "catattack40.modrinth.gg",
+            "port": 25565,
+            "ip_address": "185.206.150.144",
+            "eula_blocked": false,
+            "retrieved_at": 1765185846311,
+            "expires_at": 1765185906311,
+            "srv_record": {
+                "host": "catattack40.modrinth.gg",
+                "port": 24449
+            },
+            "version": {
+                "name_raw": "1.20.1",
+                "name_clean": "1.20.1",
+                "name_html": "<span><span>1.20.1</span></span>",
+                "protocol": 763
+            },
+            "players": {
+                "online": 3,
+                "max": 20,
+                "list": [
+                    {
+                        "uuid": "62575901-ab07-486f-b75c-d5ba0a478078",
+                        "name_raw": "SteampunkBoiii78",
+                        "name_clean": "SteampunkBoiii78",
+                        "name_html": "<span><span>SteampunkBoiii78</span></span>"
+                    },
+                    {
+                        "uuid": "eab51c52-5fad-468a-9171-c3178012c6de",
+                        "name_raw": "Catattack40",
+                        "name_clean": "Catattack40",
+                        "name_html": "<span><span>Catattack40</span></span>"
+                    },
+                    {
+                        "uuid": "b833550a-b1b7-4cee-b685-968165958a2e",
+                        "name_raw": "_Flyingfox__",
+                        "name_clean": "_Flyingfox__",
+                        "name_html": "<span><span>_Flyingfox__</span></span>"
+                    }
+                ]
+            },
+            "motd": {
+                "raw": "A Minecraft Server",
+                "clean": "A Minecraft Server",
+                "html": "<span><span>A Minecraft Server</span></span>"
+            },
+            "icon": null,
+            "mods": [],
+            "software": null,
+            "plugins": []
+        }
+    },
+    {
         "address": "traingame.kncgaming.com",
         "discord": "https://discord.gg/hNv2yu4PKh",
         "tags": [
@@ -13,8 +72,8 @@
             "port": 25565,
             "ip_address": "71.236.222.26",
             "eula_blocked": false,
-            "retrieved_at": 1765184089890,
-            "expires_at": 1765184149890,
+            "retrieved_at": 1765185831632,
+            "expires_at": 1765185891632,
             "srv_record": {
                 "host": "_dc-srv.27e703567964._minecraft._tcp.traingame.kncgaming.com",
                 "port": 25592
@@ -26,15 +85,9 @@
                 "protocol": 767
             },
             "players": {
-                "online": 3,
+                "online": 2,
                 "max": 25,
                 "list": [
-                    {
-                        "uuid": "56eb2051-3667-4a68-83f4-eaed7dbe75ad",
-                        "name_raw": "SOVER31N",
-                        "name_clean": "SOVER31N",
-                        "name_html": "<span><span>SOVER31N</span></span>"
-                    },
                     {
                         "uuid": "ae6cfcfc-a15c-4e7c-9189-136a0e51c7bd",
                         "name_raw": "C4_Tech",
@@ -61,65 +114,6 @@
         }
     },
     {
-        "address": "catattack40.modrinth.gg",
-        "discord": null,
-        "tags": [],
-        "mods": [],
-        "statuspage": "https://mcstatus.io/status/java/catattack40.modrinth.gg",
-        "data": {
-            "online": true,
-            "host": "catattack40.modrinth.gg",
-            "port": 25565,
-            "ip_address": "185.206.150.144",
-            "eula_blocked": false,
-            "retrieved_at": 1765184104549,
-            "expires_at": 1765184164549,
-            "srv_record": {
-                "host": "catattack40.modrinth.gg",
-                "port": 24449
-            },
-            "version": {
-                "name_raw": "1.20.1",
-                "name_clean": "1.20.1",
-                "name_html": "<span><span>1.20.1</span></span>",
-                "protocol": 763
-            },
-            "players": {
-                "online": 3,
-                "max": 20,
-                "list": [
-                    {
-                        "uuid": "b833550a-b1b7-4cee-b685-968165958a2e",
-                        "name_raw": "_Flyingfox__",
-                        "name_clean": "_Flyingfox__",
-                        "name_html": "<span><span>_Flyingfox__</span></span>"
-                    },
-                    {
-                        "uuid": "62575901-ab07-486f-b75c-d5ba0a478078",
-                        "name_raw": "SteampunkBoiii78",
-                        "name_clean": "SteampunkBoiii78",
-                        "name_html": "<span><span>SteampunkBoiii78</span></span>"
-                    },
-                    {
-                        "uuid": "eab51c52-5fad-468a-9171-c3178012c6de",
-                        "name_raw": "Catattack40",
-                        "name_clean": "Catattack40",
-                        "name_html": "<span><span>Catattack40</span></span>"
-                    }
-                ]
-            },
-            "motd": {
-                "raw": "A Minecraft Server",
-                "clean": "A Minecraft Server",
-                "html": "<span><span>A Minecraft Server</span></span>"
-            },
-            "icon": null,
-            "mods": [],
-            "software": null,
-            "plugins": []
-        }
-    },
-    {
         "address": "harpy.lorenzloening.com",
         "discord": "https://discord.gg/99aur2Grxd",
         "tags": [
@@ -134,8 +128,8 @@
             "port": 25565,
             "ip_address": "88.211.228.45",
             "eula_blocked": false,
-            "retrieved_at": 1765184093855,
-            "expires_at": 1765184153855,
+            "retrieved_at": 1765185835600,
+            "expires_at": 1765185895600,
             "srv_record": {
                 "host": "_dc-srv.a3a1840e8cad._minecraft._tcp.harpy.lorenzloening.com",
                 "port": 25732
@@ -191,8 +185,8 @@
             "port": 25565,
             "ip_address": "71.236.222.26",
             "eula_blocked": false,
-            "retrieved_at": 1765184095673,
-            "expires_at": 1765184155673,
+            "retrieved_at": 1765185837325,
+            "expires_at": 1765185897325,
             "srv_record": {
                 "host": "_dc-srv.bc249915139f._minecraft._tcp.devtraingame.kncgaming.com",
                 "port": 25590
@@ -234,8 +228,8 @@
             "port": 25565,
             "ip_address": "136.243.118.35",
             "eula_blocked": false,
-            "retrieved_at": 1765184090412,
-            "expires_at": 1765184150412,
+            "retrieved_at": 1765185832159,
+            "expires_at": 1765185892159,
             "srv_record": {
                 "host": "copernicus.node.luunar.sh",
                 "port": 30003
@@ -277,8 +271,8 @@
             "port": 25565,
             "ip_address": "71.236.222.26",
             "eula_blocked": false,
-            "retrieved_at": 1765184092322,
-            "expires_at": 1765184152322,
+            "retrieved_at": 1765185834096,
+            "expires_at": 1765185894096,
             "srv_record": {
                 "host": "_dc-srv.f6952f0d4dfb._minecraft._tcp.loretraingame.kncgaming.com",
                 "port": 25591
@@ -326,8 +320,8 @@
             "port": 25565,
             "ip_address": "204.77.5.57",
             "eula_blocked": false,
-            "retrieved_at": 1765184094225,
-            "expires_at": 1765184154225,
+            "retrieved_at": 1765185835923,
+            "expires_at": 1765185895923,
             "srv_record": {
                 "host": "tmm.sleepyapril.net",
                 "port": 25567
@@ -368,8 +362,8 @@
             "port": 25567,
             "ip_address": "212.186.1.144",
             "eula_blocked": false,
-            "retrieved_at": 1765184096405,
-            "expires_at": 1765184156405,
+            "retrieved_at": 1765185838159,
+            "expires_at": 1765185898159,
             "srv_record": null,
             "version": {
                 "name_raw": "1.21.1",
@@ -405,8 +399,8 @@
             "port": 25592,
             "ip_address": "185.83.153.44",
             "eula_blocked": false,
-            "retrieved_at": 1765184096863,
-            "expires_at": 1765184156863,
+            "retrieved_at": 1765185838643,
+            "expires_at": 1765185898643,
             "srv_record": null,
             "version": {
                 "name_raw": "1.21.1",
@@ -442,8 +436,8 @@
             "port": 25565,
             "ip_address": "169.150.235.163",
             "eula_blocked": false,
-            "retrieved_at": 1765184097835,
-            "expires_at": 1765184157835,
+            "retrieved_at": 1765185839542,
+            "expires_at": 1765185899542,
             "srv_record": null,
             "version": {
                 "name_raw": "1.21.8",
@@ -486,8 +480,8 @@
             "port": 25565,
             "ip_address": "147.185.221.194",
             "eula_blocked": false,
-            "retrieved_at": 1765184103151,
-            "expires_at": 1765184163151,
+            "retrieved_at": 1765185844889,
+            "expires_at": 1765185904889,
             "srv_record": null
         }
     },
@@ -503,8 +497,8 @@
             "port": 25580,
             "ip_address": "148.251.54.69",
             "eula_blocked": false,
-            "retrieved_at": 1765184109664,
-            "expires_at": 1765184169664,
+            "retrieved_at": 1765185851520,
+            "expires_at": 1765185911520,
             "srv_record": null
         }
     },
@@ -520,8 +514,8 @@
             "port": 25565,
             "ip_address": null,
             "eula_blocked": false,
-            "retrieved_at": 1765184109905,
-            "expires_at": 1765184169905,
+            "retrieved_at": 1765185851786,
+            "expires_at": 1765185911786,
             "srv_record": null
         }
     }
