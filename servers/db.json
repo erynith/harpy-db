@@ -20,8 +20,8 @@
             "port": 25565,
             "ip_address": "204.77.5.57",
             "eula_blocked": false,
-            "retrieved_at": 1765281299598,
-            "expires_at": 1765281359598,
+            "retrieved_at": 1765283705569,
+            "expires_at": 1765283765569,
             "srv_record": {
                 "host": "tmm.sleepyapril.net",
                 "port": 25567
@@ -33,15 +33,9 @@
                 "protocol": 767
             },
             "players": {
-                "online": 2,
+                "online": 1,
                 "max": 400,
                 "list": [
-                    {
-                        "uuid": "350828f9-2927-40a3-8863-9abe1faf16a4",
-                        "name_raw": "Ageent_Rico",
-                        "name_clean": "Ageent_Rico",
-                        "name_html": "<span><span>Ageent_Rico</span></span>"
-                    },
                     {
                         "uuid": "03b57091-3708-4903-8a18-706302a14379",
                         "name_raw": "rory102102",
@@ -62,6 +56,53 @@
         }
     },
     {
+        "address": "catattack40.modrinth.gg",
+        "discord": null,
+        "tags": [],
+        "mods": [],
+        "statuspage": "https://mcstatus.io/status/java/catattack40.modrinth.gg",
+        "data": {
+            "online": true,
+            "host": "catattack40.modrinth.gg",
+            "port": 25565,
+            "ip_address": "185.206.150.144",
+            "eula_blocked": false,
+            "retrieved_at": 1765283715855,
+            "expires_at": 1765283775855,
+            "srv_record": {
+                "host": "catattack40.modrinth.gg",
+                "port": 24449
+            },
+            "version": {
+                "name_raw": "1.20.1",
+                "name_clean": "1.20.1",
+                "name_html": "<span><span>1.20.1</span></span>",
+                "protocol": 763
+            },
+            "players": {
+                "online": 1,
+                "max": 20,
+                "list": [
+                    {
+                        "uuid": "62575901-ab07-486f-b75c-d5ba0a478078",
+                        "name_raw": "SteampunkBoiii78",
+                        "name_clean": "SteampunkBoiii78",
+                        "name_html": "<span><span>SteampunkBoiii78</span></span>"
+                    }
+                ]
+            },
+            "motd": {
+                "raw": "A Minecraft Server",
+                "clean": "A Minecraft Server",
+                "html": "<span><span>A Minecraft Server</span></span>"
+            },
+            "icon": null,
+            "mods": [],
+            "software": null,
+            "plugins": []
+        }
+    },
+    {
         "address": "traingame.kncgaming.com",
         "discord": "https://discord.gg/hNv2yu4PKh",
         "tags": [
@@ -75,8 +116,8 @@
             "port": 25565,
             "ip_address": "71.236.222.26",
             "eula_blocked": false,
-            "retrieved_at": 1765281295056,
-            "expires_at": 1765281355056,
+            "retrieved_at": 1765283700573,
+            "expires_at": 1765283760573,
             "srv_record": {
                 "host": "_dc-srv.27e703567964._minecraft._tcp.traingame.kncgaming.com",
                 "port": 25592
@@ -118,8 +159,8 @@
             "port": 25565,
             "ip_address": "136.243.118.35",
             "eula_blocked": false,
-            "retrieved_at": 1765281295620,
-            "expires_at": 1765281355620,
+            "retrieved_at": 1765283701276,
+            "expires_at": 1765283761276,
             "srv_record": {
                 "host": "copernicus.node.luunar.sh",
                 "port": 30003
@@ -161,8 +202,8 @@
             "port": 25565,
             "ip_address": "71.236.222.26",
             "eula_blocked": false,
-            "retrieved_at": 1765281297605,
-            "expires_at": 1765281357605,
+            "retrieved_at": 1765283703385,
+            "expires_at": 1765283763385,
             "srv_record": {
                 "host": "_dc-srv.f6952f0d4dfb._minecraft._tcp.loretraingame.kncgaming.com",
                 "port": 25591
@@ -204,8 +245,8 @@
             "port": 25565,
             "ip_address": "88.211.228.45",
             "eula_blocked": false,
-            "retrieved_at": 1765281299147,
-            "expires_at": 1765281359147,
+            "retrieved_at": 1765283705039,
+            "expires_at": 1765283765039,
             "srv_record": {
                 "host": "_dc-srv.a3a1840e8cad._minecraft._tcp.harpy.lorenzloening.com",
                 "port": 25732
@@ -246,8 +287,8 @@
             "port": 25567,
             "ip_address": "212.186.1.144",
             "eula_blocked": false,
-            "retrieved_at": 1765281301543,
-            "expires_at": 1765281361543,
+            "retrieved_at": 1765283707708,
+            "expires_at": 1765283767708,
             "srv_record": null,
             "version": {
                 "name_raw": "1.21.1",
@@ -283,8 +324,8 @@
             "port": 25592,
             "ip_address": "185.83.153.44",
             "eula_blocked": false,
-            "retrieved_at": 1765281301990,
-            "expires_at": 1765281361990,
+            "retrieved_at": 1765283708160,
+            "expires_at": 1765283768160,
             "srv_record": null,
             "version": {
                 "name_raw": "1.21.1",
@@ -320,8 +361,8 @@
             "port": 25565,
             "ip_address": "169.150.235.163",
             "eula_blocked": false,
-            "retrieved_at": 1765281302831,
-            "expires_at": 1765281362831,
+            "retrieved_at": 1765283709080,
+            "expires_at": 1765283769080,
             "srv_record": null,
             "version": {
                 "name_raw": "1.21.8",
@@ -346,46 +387,6 @@
         }
     },
     {
-        "address": "catattack40.modrinth.gg",
-        "discord": null,
-        "tags": [],
-        "mods": [],
-        "statuspage": "https://mcstatus.io/status/java/catattack40.modrinth.gg",
-        "data": {
-            "online": true,
-            "host": "catattack40.modrinth.gg",
-            "port": 25565,
-            "ip_address": "185.206.150.144",
-            "eula_blocked": false,
-            "retrieved_at": 1765281309650,
-            "expires_at": 1765281369650,
-            "srv_record": {
-                "host": "catattack40.modrinth.gg",
-                "port": 24449
-            },
-            "version": {
-                "name_raw": "1.20.1",
-                "name_clean": "1.20.1",
-                "name_html": "<span><span>1.20.1</span></span>",
-                "protocol": 763
-            },
-            "players": {
-                "online": 0,
-                "max": 20,
-                "list": []
-            },
-            "motd": {
-                "raw": "A Minecraft Server",
-                "clean": "A Minecraft Server",
-                "html": "<span><span>A Minecraft Server</span></span>"
-            },
-            "icon": null,
-            "mods": [],
-            "software": null,
-            "plugins": []
-        }
-    },
-    {
         "address": "devtraingame.kncgaming.com",
         "discord": "https://discord.gg/hNv2yu4PKh",
         "tags": [
@@ -401,8 +402,8 @@
             "port": 25565,
             "ip_address": "71.236.222.26",
             "eula_blocked": false,
-            "retrieved_at": 1765281300986,
-            "expires_at": 1765281360986,
+            "retrieved_at": 1765283707051,
+            "expires_at": 1765283767051,
             "srv_record": null
         }
     },
@@ -425,8 +426,8 @@
             "port": 25565,
             "ip_address": "147.185.221.194",
             "eula_blocked": false,
-            "retrieved_at": 1765281308259,
-            "expires_at": 1765281368259,
+            "retrieved_at": 1765283714459,
+            "expires_at": 1765283774459,
             "srv_record": null
         }
     },
@@ -442,8 +443,8 @@
             "port": 25580,
             "ip_address": "148.251.54.69",
             "eula_blocked": false,
-            "retrieved_at": 1765281314833,
-            "expires_at": 1765281374833,
+            "retrieved_at": 1765283721042,
+            "expires_at": 1765283781042,
             "srv_record": null
         }
     },
@@ -459,8 +460,8 @@
             "port": 25565,
             "ip_address": null,
             "eula_blocked": false,
-            "retrieved_at": 1765281315095,
-            "expires_at": 1765281375095,
+            "retrieved_at": 1765283721282,
+            "expires_at": 1765283781282,
             "srv_record": null
         }
     }
