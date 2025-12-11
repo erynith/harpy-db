@@ -15,8 +15,8 @@
             "port": 25565,
             "ip_address": "71.236.222.26",
             "eula_blocked": false,
-            "retrieved_at": 1765428370812,
-            "expires_at": 1765428430812,
+            "retrieved_at": 1765429299963,
+            "expires_at": 1765429359963,
             "srv_record": {
                 "host": "_dc-srv.bc249915139f._minecraft._tcp.devtraingame.kncgaming.com",
                 "port": 25590
@@ -28,7 +28,7 @@
                 "protocol": 767
             },
             "players": {
-                "online": 7,
+                "online": 6,
                 "max": 255,
                 "list": []
             },
@@ -58,8 +58,8 @@
             "port": 25565,
             "ip_address": "88.211.228.45",
             "eula_blocked": false,
-            "retrieved_at": 1765428369100,
-            "expires_at": 1765428429100,
+            "retrieved_at": 1765429298315,
+            "expires_at": 1765429358315,
             "srv_record": {
                 "host": "_dc-srv.a3a1840e8cad._minecraft._tcp.harpy.lorenzloening.com",
                 "port": 25732
@@ -75,22 +75,22 @@
                 "max": 9999,
                 "list": [
                     {
-                        "uuid": "80be53e4-f413-4149-9894-2e60c8907cc5",
-                        "name_raw": "DestinedToWander",
-                        "name_clean": "DestinedToWander",
-                        "name_html": "<span><span>DestinedToWander</span></span>"
+                        "uuid": "e9656736-7205-40bd-a520-326734c2fbe6",
+                        "name_raw": "HotChipZ36",
+                        "name_clean": "HotChipZ36",
+                        "name_html": "<span><span>HotChipZ36</span></span>"
+                    },
+                    {
+                        "uuid": "3b685466-d49a-4b6f-8618-8d62481e7bca",
+                        "name_raw": "Ne0Knight",
+                        "name_clean": "Ne0Knight",
+                        "name_html": "<span><span>Ne0Knight</span></span>"
                     },
                     {
                         "uuid": "79531d19-1d03-4519-8801-6c599d90eabd",
                         "name_raw": "NocteDraco",
                         "name_clean": "NocteDraco",
                         "name_html": "<span><span>NocteDraco</span></span>"
-                    },
-                    {
-                        "uuid": "e9656736-7205-40bd-a520-326734c2fbe6",
-                        "name_raw": "HotChipZ36",
-                        "name_clean": "HotChipZ36",
-                        "name_html": "<span><span>HotChipZ36</span></span>"
                     }
                 ]
             },
@@ -117,8 +117,8 @@
             "port": 25565,
             "ip_address": "185.206.150.144",
             "eula_blocked": false,
-            "retrieved_at": 1765428379640,
-            "expires_at": 1765428439640,
+            "retrieved_at": 1765429308234,
+            "expires_at": 1765429368234,
             "srv_record": {
                 "host": "catattack40.modrinth.gg",
                 "port": 24449
@@ -134,6 +134,12 @@
                 "max": 20,
                 "list": [
                     {
+                        "uuid": "b833550a-b1b7-4cee-b685-968165958a2e",
+                        "name_raw": "_Flyingfox__",
+                        "name_clean": "_Flyingfox__",
+                        "name_html": "<span><span>_Flyingfox__</span></span>"
+                    },
+                    {
                         "uuid": "00000000-0000-0000-0000-000000000000",
                         "name_raw": "Anonymous Player",
                         "name_clean": "Anonymous Player",
@@ -144,12 +150,6 @@
                         "name_raw": "SteampunkBoiii78",
                         "name_clean": "SteampunkBoiii78",
                         "name_html": "<span><span>SteampunkBoiii78</span></span>"
-                    },
-                    {
-                        "uuid": "b833550a-b1b7-4cee-b685-968165958a2e",
-                        "name_raw": "_Flyingfox__",
-                        "name_clean": "_Flyingfox__",
-                        "name_html": "<span><span>_Flyingfox__</span></span>"
                     }
                 ]
             },
@@ -178,8 +178,8 @@
             "port": 25565,
             "ip_address": "71.236.222.26",
             "eula_blocked": false,
-            "retrieved_at": 1765428365615,
-            "expires_at": 1765428425615,
+            "retrieved_at": 1765429294872,
+            "expires_at": 1765429354872,
             "srv_record": {
                 "host": "_dc-srv.27e703567964._minecraft._tcp.traingame.kncgaming.com",
                 "port": 25592
@@ -221,8 +221,8 @@
             "port": 25565,
             "ip_address": "136.243.118.35",
             "eula_blocked": false,
-            "retrieved_at": 1765428365976,
-            "expires_at": 1765428425976,
+            "retrieved_at": 1765429295270,
+            "expires_at": 1765429355270,
             "srv_record": {
                 "host": "copernicus.node.luunar.sh",
                 "port": 30003
@@ -264,8 +264,8 @@
             "port": 25565,
             "ip_address": "71.236.222.26",
             "eula_blocked": false,
-            "retrieved_at": 1765428367738,
-            "expires_at": 1765428427738,
+            "retrieved_at": 1765429296968,
+            "expires_at": 1765429356968,
             "srv_record": {
                 "host": "_dc-srv.f6952f0d4dfb._minecraft._tcp.loretraingame.kncgaming.com",
                 "port": 25591
@@ -313,8 +313,8 @@
             "port": 25565,
             "ip_address": "204.77.5.57",
             "eula_blocked": false,
-            "retrieved_at": 1765428369413,
-            "expires_at": 1765428429413,
+            "retrieved_at": 1765429298577,
+            "expires_at": 1765429358577,
             "srv_record": {
                 "host": "tmm.sleepyapril.net",
                 "port": 25567
@@ -355,8 +355,8 @@
             "port": 25567,
             "ip_address": "212.186.1.144",
             "eula_blocked": false,
-            "retrieved_at": 1765428371714,
-            "expires_at": 1765428431714,
+            "retrieved_at": 1765429300699,
+            "expires_at": 1765429360699,
             "srv_record": null,
             "version": {
                 "name_raw": "1.21.1",
@@ -392,8 +392,8 @@
             "port": 25592,
             "ip_address": "185.83.153.44",
             "eula_blocked": false,
-            "retrieved_at": 1765428372068,
-            "expires_at": 1765428432068,
+            "retrieved_at": 1765429301032,
+            "expires_at": 1765429361032,
             "srv_record": null,
             "version": {
                 "name_raw": "1.21.1",
@@ -424,34 +424,14 @@
         "mods": [],
         "statuspage": "https://mcstatus.io/status/java/murdertrain.nodecraft.gg",
         "data": {
-            "online": true,
+            "online": false,
             "host": "murdertrain.nodecraft.gg",
             "port": 25565,
-            "ip_address": "169.150.235.163",
+            "ip_address": null,
             "eula_blocked": false,
-            "retrieved_at": 1765428372984,
-            "expires_at": 1765428432984,
-            "srv_record": null,
-            "version": {
-                "name_raw": "1.20.1",
-                "name_clean": "1.20.1",
-                "name_html": "<span><span>1.20.1</span></span>",
-                "protocol": 763
-            },
-            "players": {
-                "online": 0,
-                "max": 20,
-                "list": []
-            },
-            "motd": {
-                "raw": "Hosted by Nodecraft.com",
-                "clean": "Hosted by Nodecraft.com",
-                "html": "<span><span>Hosted by Nodecraft.com</span></span>"
-            },
-            "icon": "data:image/png;base64,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",
-            "mods": [],
-            "software": null,
-            "plugins": []
+            "retrieved_at": 1765429301654,
+            "expires_at": 1765429361654,
+            "srv_record": null
         }
     },
     {
@@ -473,8 +453,8 @@
             "port": 25565,
             "ip_address": "147.185.221.194",
             "eula_blocked": false,
-            "retrieved_at": 1765428378303,
-            "expires_at": 1765428438303,
+            "retrieved_at": 1765429306913,
+            "expires_at": 1765429366913,
             "srv_record": null
         }
     },
@@ -490,8 +470,8 @@
             "port": 25580,
             "ip_address": "148.251.54.69",
             "eula_blocked": false,
-            "retrieved_at": 1765428384773,
-            "expires_at": 1765428444773,
+            "retrieved_at": 1765429313362,
+            "expires_at": 1765429373362,
             "srv_record": null
         }
     },
@@ -507,8 +487,8 @@
             "port": 25565,
             "ip_address": null,
             "eula_blocked": false,
-            "retrieved_at": 1765428384948,
-            "expires_at": 1765428444948,
+            "retrieved_at": 1765429313530,
+            "expires_at": 1765429373530,
             "srv_record": null
         }
     }
