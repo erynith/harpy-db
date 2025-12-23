@@ -11,8 +11,8 @@
             "port": 25565,
             "ip_address": "23.109.123.217",
             "eula_blocked": false,
-            "retrieved_at": 1766507342130,
-            "expires_at": 1766507402130,
+            "retrieved_at": 1766508811409,
+            "expires_at": 1766508871409,
             "srv_record": {
                 "host": "catattack40.modrinth.gg",
                 "port": 15056
@@ -61,8 +61,8 @@
             "port": 25565,
             "ip_address": "136.243.118.35",
             "eula_blocked": false,
-            "retrieved_at": 1766507330248,
-            "expires_at": 1766507390248,
+            "retrieved_at": 1766508799813,
+            "expires_at": 1766508859813,
             "srv_record": {
                 "host": "copernicus.node.luunar.sh",
                 "port": 30003
@@ -104,8 +104,8 @@
             "port": 25565,
             "ip_address": "88.211.228.45",
             "eula_blocked": false,
-            "retrieved_at": 1766507332444,
-            "expires_at": 1766507392444,
+            "retrieved_at": 1766508801916,
+            "expires_at": 1766508861916,
             "srv_record": {
                 "host": "_dc-srv.a3a1840e8cad._minecraft._tcp.harpy.lorenzloening.com",
                 "port": 25732
@@ -153,8 +153,8 @@
             "port": 25565,
             "ip_address": "23.139.82.27",
             "eula_blocked": false,
-            "retrieved_at": 1766507332918,
-            "expires_at": 1766507392918,
+            "retrieved_at": 1766508802281,
+            "expires_at": 1766508862281,
             "srv_record": {
                 "host": "tmm.sleepyapril.net",
                 "port": 25567
@@ -195,8 +195,8 @@
             "port": 25567,
             "ip_address": "212.186.1.144",
             "eula_blocked": false,
-            "retrieved_at": 1766507333975,
-            "expires_at": 1766507393975,
+            "retrieved_at": 1766508803323,
+            "expires_at": 1766508863323,
             "srv_record": null,
             "version": {
                 "name_raw": "1.21.1",
@@ -221,6 +221,43 @@
         }
     },
     {
+        "address": "148.251.54.69:25580",
+        "discord": null,
+        "tags": [],
+        "mods": [],
+        "statuspage": "https://mcstatus.io/status/java/148.251.54.69:25580",
+        "data": {
+            "online": true,
+            "host": "148.251.54.69",
+            "port": 25580,
+            "ip_address": "148.251.54.69",
+            "eula_blocked": false,
+            "retrieved_at": 1766508811805,
+            "expires_at": 1766508871805,
+            "srv_record": null,
+            "version": {
+                "name_raw": "Paper 1.21.4",
+                "name_clean": "Paper 1.21.4",
+                "name_html": "<span><span>Paper 1.21.4</span></span>",
+                "protocol": 769
+            },
+            "players": {
+                "online": 0,
+                "max": 50,
+                "list": []
+            },
+            "motd": {
+                "raw": "TitanCraft Network\nDevelopment Phase.",
+                "clean": "TitanCraft Network\nDevelopment Phase.",
+                "html": "<span><span>TitanCraft Network\nDevelopment Phase.</span></span>"
+            },
+            "icon": "data:image/png;base64,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",
+            "mods": [],
+            "software": null,
+            "plugins": []
+        }
+    },
+    {
         "address": "traingame.kncgaming.com",
         "discord": "https://discord.gg/hNv2yu4PKh",
         "tags": [
@@ -234,8 +271,8 @@
             "port": 25565,
             "ip_address": "71.236.222.26",
             "eula_blocked": false,
-            "retrieved_at": 1766507329712,
-            "expires_at": 1766507389712,
+            "retrieved_at": 1766508799372,
+            "expires_at": 1766508859372,
             "srv_record": null
         }
     },
@@ -254,8 +291,8 @@
             "port": 25565,
             "ip_address": null,
             "eula_blocked": false,
-            "retrieved_at": 1766507330998,
-            "expires_at": 1766507390998,
+            "retrieved_at": 1766508800501,
+            "expires_at": 1766508860501,
             "srv_record": null
         }
     },
@@ -275,8 +312,8 @@
             "port": 25565,
             "ip_address": null,
             "eula_blocked": false,
-            "retrieved_at": 1766507333142,
-            "expires_at": 1766507393142,
+            "retrieved_at": 1766508802532,
+            "expires_at": 1766508862532,
             "srv_record": null
         }
     },
@@ -292,8 +329,8 @@
             "port": 25592,
             "ip_address": "185.83.153.44",
             "eula_blocked": false,
-            "retrieved_at": 1766507334387,
-            "expires_at": 1766507394387,
+            "retrieved_at": 1766508803695,
+            "expires_at": 1766508863695,
             "srv_record": null
         }
     },
@@ -309,8 +346,8 @@
             "port": 25565,
             "ip_address": null,
             "eula_blocked": false,
-            "retrieved_at": 1766507334955,
-            "expires_at": 1766507394955,
+            "retrieved_at": 1766508804214,
+            "expires_at": 1766508864214,
             "srv_record": null
         }
     },
@@ -333,25 +370,8 @@
             "port": 25565,
             "ip_address": "147.185.221.194",
             "eula_blocked": false,
-            "retrieved_at": 1766507340327,
-            "expires_at": 1766507400327,
-            "srv_record": null
-        }
-    },
-    {
-        "address": "148.251.54.69:25580",
-        "discord": null,
-        "tags": [],
-        "mods": [],
-        "statuspage": "https://mcstatus.io/status/java/148.251.54.69:25580",
-        "data": {
-            "online": false,
-            "host": "148.251.54.69",
-            "port": 25580,
-            "ip_address": "148.251.54.69",
-            "eula_blocked": false,
-            "retrieved_at": 1766507347417,
-            "expires_at": 1766507407417,
+            "retrieved_at": 1766508809532,
+            "expires_at": 1766508869532,
             "srv_record": null
         }
     },
@@ -367,8 +387,8 @@
             "port": 25565,
             "ip_address": null,
             "eula_blocked": false,
-            "retrieved_at": 1766507347796,
-            "expires_at": 1766507407796,
+            "retrieved_at": 1766508812062,
+            "expires_at": 1766508872062,
             "srv_record": null
         }
     }
