@@ -11,8 +11,8 @@
             "port": 25580,
             "ip_address": "148.251.54.69",
             "eula_blocked": false,
-            "retrieved_at": 1767210626006,
-            "expires_at": 1767210686006,
+            "retrieved_at": 1767211167402,
+            "expires_at": 1767211227402,
             "srv_record": null,
             "version": {
                 "name_raw": "Paper 1.21.4",
@@ -51,8 +51,8 @@
             "port": 25565,
             "ip_address": "136.243.118.35",
             "eula_blocked": false,
-            "retrieved_at": 1767210610941,
-            "expires_at": 1767210670941,
+            "retrieved_at": 1767211156638,
+            "expires_at": 1767211216638,
             "srv_record": {
                 "host": "copernicus.node.luunar.sh",
                 "port": 30003
@@ -94,8 +94,8 @@
             "port": 25565,
             "ip_address": "88.211.228.45",
             "eula_blocked": false,
-            "retrieved_at": 1767210613029,
-            "expires_at": 1767210673029,
+            "retrieved_at": 1767211158524,
+            "expires_at": 1767211218524,
             "srv_record": {
                 "host": "_dc-srv.a3a1840e8cad._minecraft._tcp.harpy.lorenzloening.com",
                 "port": 25732
@@ -143,8 +143,8 @@
             "port": 25565,
             "ip_address": "23.139.82.27",
             "eula_blocked": false,
-            "retrieved_at": 1767210613337,
-            "expires_at": 1767210673337,
+            "retrieved_at": 1767211158768,
+            "expires_at": 1767211218768,
             "srv_record": {
                 "host": "tmm.sleepyapril.net",
                 "port": 25567
@@ -185,8 +185,8 @@
             "port": 25567,
             "ip_address": "212.186.1.144",
             "eula_blocked": false,
-            "retrieved_at": 1767210614203,
-            "expires_at": 1767210674203,
+            "retrieved_at": 1767211159528,
+            "expires_at": 1767211219528,
             "srv_record": null,
             "version": {
                 "name_raw": "1.21.1",
@@ -211,6 +211,46 @@
         }
     },
     {
+        "address": "catattack40.modrinth.gg",
+        "discord": null,
+        "tags": [],
+        "mods": [],
+        "statuspage": "https://mcstatus.io/status/java/catattack40.modrinth.gg",
+        "data": {
+            "online": true,
+            "host": "catattack40.modrinth.gg",
+            "port": 25565,
+            "ip_address": "23.109.123.217",
+            "eula_blocked": false,
+            "retrieved_at": 1767211167121,
+            "expires_at": 1767211227121,
+            "srv_record": {
+                "host": "catattack40.modrinth.gg",
+                "port": 15056
+            },
+            "version": {
+                "name_raw": "1.20.1",
+                "name_clean": "1.20.1",
+                "name_html": "<span><span>1.20.1</span></span>",
+                "protocol": 763
+            },
+            "players": {
+                "online": 0,
+                "max": 20,
+                "list": []
+            },
+            "motd": {
+                "raw": "An MC Eternal 2 Server!",
+                "clean": "An MC Eternal 2 Server!",
+                "html": "<span><span>An MC Eternal 2 Server!</span></span>"
+            },
+            "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAK6klEQVR4Xu2aCVAUVxrHk63dVCrZpFK1BpTDoCLHgBijoskiDCZmo0YUFWZGDslwOoAcyqVxvYKKigYTjOxyCESNxItLNOsSPKMQr2zUFWOIqwKeoCFlZUvm2/d66Jnu783A4DaCVr6qX/XQ/d7M9//3O77u4plnfounJyrkyVU85SOXvICvPzVRKk+1r/BMVXPIU8AkXska3PeJjSp5ql25V0omI7IT4mQxEO0cPQl/1xMX5Z5Jk4ig77DArugwAKKco1zxd/b5KPNOcSFDeBEWZS7Ff54Pi4fP5QzowBP/Rp8OspD9hEV1h41jEiFjZPyTZ0ClR5oDEXAVC+oO28clCYXrwb/Vp6JEtuQ5kvwFKqBqwjyojVQywngqxycx53gyR4nuOkbaBdHS0u3FWPvYlykbxsS+vLcD3M6cKPdKTeNF3N7iCG0V1ow4ntooBXOOssszGQvGSGrA72z7DwVMuTxZnxAZc8/iTsaiwivlToU36UdozHXjxFMa1r/JncNCMTuJ8CTXWEh0iYF1oxKw6J4xgIhtxuJ5Fo2YxSVWKU+tLZOnLsR9+aDXKLTt1exReuGYwwFqqNP46wV/PTNS/3kHET+XbHdrydDvQry0BlhZOfTDwnnsBjhCpOsUfZKV3qlFuP9uefwrwrt4Zp4PI5yHXt/3lwTuWOMfAa277OCHVZ6wwCkMAm2DsMjOkM4AGjYDHI5i8ULCXd7XC2z7qzUHn0w8uWt02FL4NjcKZYz4k3On669TtnkkQeqIKP33qIeEgZ/VLCzUFI/XAJXTu/rED04JExlAoXM3hhzp3N3u8z78vNRGbMBya2j90I7rv+z1OMh2T4R4F111xxM+NAKmWviba4K0BtAgQpdh4TwuNq6wzl3NCdg7fj6cVM6AH+OduGSocHpc6Kar1tLeCIXVHipIGBapT5j+zUEKmvQRcZA12vgcpwZQ8HkjSG/AwAEOQVi4kOUjAzkDSr2SoUgewY2CIyFjcGIcavtwCCVonDTMtY/lfqK/t/m8p//MGxA1JMoC90NIb4CV1eCBROg3WDiP2lnB3bkVb8TBBnLcShKnJhyaPRYnx4kPGRQKKttg0fmCiVPgRsogyHvPh+lD6TCgOcgyyEJpo1sUjZkY3RMG8GFraX+ECna3nsMgTGKeWwScWjCCm+M/lxMjlo6FhOGGRU1IpqdC/znLWzwChIQMVt/zsVBM97X0teBHQ8jgUNCwbXvGgHdsPl4tt152e5z1Qphgk8WAE174plq02NUnypg23aSZ5iE0wN86gBkF8Xbxr+DcHymIqIwOrmGxxjCSMMQNizKYsES3RfJTo1Ihh6Vy8TSghA4JJ1tgKHwyfqboPJ+X0ICAgbMZA4Qauh0qp3wvlXP+31PfroA4z50QMWYHfLNCa5L8yIug8d7BEf3WJkYMJUamgbNZw/Xi2zIIawi7dcZkTlZA6phQri0VhPt3cJTPUWgAtzWSUfB/G+AnK3lO4ZSX+FnwCaA05PwKjQVaOL+BFc1zYo0Wzn2uhR9KdXy16ixOWkTrBlto22gQLuTYCnemvQhZ9Fw+V2xAsN0HorZCXWbFtYL2RVSsKc5laeHfn2qhLsMgvm69QbgpA2jxgoWczx7GiBeyN8mL6YNF+fTzeWmqheIUb8DsQWqIcjQswsK2XUZjIURiwZhreToDLn5qMODil10bEDE0ktvqlII6fvG4ELi+xZ4RLsTYNojz9n3VP5034IPBYZ22NRmNueCJxZqCGnDhE8ImLdTvYMVT6ndqmcTpAkXreKVNoGi7one6dvVIaModDG2fE+GZ1oY1grDWU9mpqGkW/oFEvJYzYIjYgBhZzBK1o/ol3IeJ6/kPFVhoZzQVaaH1kBbu1mjhchkrno6Mfyy4xZhAmTFABTM7qePL/b3hdpqdyITjoaPJbhD2C7nui3PngxjQTk1gagFZtAtuywQW2BlU/J39OgOu7tPC9f1i8SezdAZUL2qBtLHLuSSE85Iyx3jVpoeWvXcWvCYy4ZfF1jtx3sKY+qp/NTUB/5akBjQV64QL4Q2o38XuDpTZQ2Mh8LUQ/dNbhIPxKrArcM6mgrStjHGOaezod0XjorHHbZjAQk3R8jVrwG1yrnEv2SY3seIpNcvuQ6LHYs6EAAJdqXHBYg44584ixilmGDEhId4p3g5fMxpE3D0sVkhToXHxHAfFbc+uExiw0jA9lGSP5lfrGf1VEEyMCB9qeBTuCo1M80ect2TR1S7AiBYgbFefTcR+phNfu5bdHURFCzEgwiHSaI1gEpfo2Th3SaIzA0zeeULzNrY9hZqAxWMDePysAiDSMYqr+xnBLO04d8miuQhexELo8Mai9Xd+Mytcb1oNK57nu633GRMotEbA7wVMoH8WkDz0IjaLxe5ddREaqx7ktBxsX08hd/4SFk1p3kJqgwNkmyQGXNvHiueZQR5asAE8tFoMI9OCbmf8MYisH4F2up1E104RiXOXJHjxd/+pE16efgEOZ1/xiB1XIpPLl/yeb3c9H2wbC2APNoCfLi1k5DSUs8J5VGT+Y+FC6EMNfdNDj3SdoE+GdIQI2nDvAySPhgJ4/t4hcKfMkuW64+vGghhR1LyViK4Wj5r/kK2x+QAr3hwDpvdXcnebGkCF010Dt/GxUFzGufRKNG2GDGML5a1qnQlYPKWu4CYjyBi+lkrODHy+TxnQehgysHgeOhXoUVguU06R7bIqpQmChsxhhJlJy1RL/3dwLr0SnRkghB8N54vFlaJioKFAMpdplv55OI9eCyLuDBZrDDoaTncUSULCXt9IhrPpXcEYOIdei5ZDEI+FmuLmTsMbJfo+gTeAf5E6cUAKI5RFscXHUqHEefRK3K1pX0CE3cdCjXG7XLdN/phDRkEmWRPI5++JGUlv7xe9Tfbt5+dFYYX7c9d8LFSWOI9eCyLsWyzUGDd3swUT5cTKmxDoVqgTb7thE/7+Phv3T8CfyMJXTSu9G6RgavxKLJhWgXS+03K4qZQVTqlbdQuUzgVNSll+Lf7+Ph0KWd7Eq1XtOTcO6EpdWu3R1Z3+zfNTJRFOTGn4QvcqXSicDv2y+Zcg2K0IFLL8fQrnvGAe/Ft9JpTOuZNrC1qmpyuqW3FBY4qzf9MtcHWrtbonQ8K+tAZy1/PNQuFUMJ2Cc3nMAc+SZIoJD86X/MqINMW/CsTb3IEP22Dp5IOMSDMpJiNlKc6sRyPQtfitygV3JmBh5sDfeVMcS2+HRK9KSPCs4AgcVoQFG0XlnF+I85Q0vs2BPxxPB0uapLE3OV2yhzzn57KCzSXOowzUI7YxwoXgnCWNo+kPlVwygnd43eFcESvqUejMBJyzZHF8xcNJ9MePr2KFmcMZE2+DH4Wt0Vcg0LWQEU94gPOWLKgBtWtIifoFK64rvkcLnhR85HMEi+/ZNYAagIWZw+mNbPJS8NgNuLyn+waczmYTl4ItmisQ4LK5bxvALXgr2eSloDjKaLF0MsSu4Hmct2TRHQPomxyctJQYNeBxPC9gocY4V8gmLDXpU48yBqhk+Wk4X8kDi8Vwd76Hhr0QLJ6Cc+2RqC9tT8aieVaoaoDuFEKIGUdx8lKAxascCpxwrj0SjeXwwqVSbQkVfP7L/0Kc9+62S2XgQgkfvZX5B4Paj8C2dhm4mAMWaYqV047phZPH49Uq2Wbmd5/4OJb+UE3B4inho7aTBS9X7eeY54j7PbVBng5ziPiqiNElVfjab9FD8T/wuopOAKI1lgAAAABJRU5ErkJggg==",
+            "mods": [],
+            "software": null,
+            "plugins": []
+        }
+    },
+    {
         "address": "traingame.kncgaming.com",
         "discord": "https://discord.gg/hNv2yu4PKh",
         "tags": [
@@ -224,8 +264,8 @@
             "port": 25565,
             "ip_address": "71.236.222.26",
             "eula_blocked": false,
-            "retrieved_at": 1767210610505,
-            "expires_at": 1767210670505,
+            "retrieved_at": 1767211156268,
+            "expires_at": 1767211216268,
             "srv_record": null
         }
     },
@@ -244,8 +284,8 @@
             "port": 25565,
             "ip_address": null,
             "eula_blocked": false,
-            "retrieved_at": 1767210611617,
-            "expires_at": 1767210671617,
+            "retrieved_at": 1767211157169,
+            "expires_at": 1767211217169,
             "srv_record": null
         }
     },
@@ -265,8 +305,8 @@
             "port": 25565,
             "ip_address": null,
             "eula_blocked": false,
-            "retrieved_at": 1767210613588,
-            "expires_at": 1767210673588,
+            "retrieved_at": 1767211158949,
+            "expires_at": 1767211218949,
             "srv_record": null
         }
     },
@@ -282,8 +322,8 @@
             "port": 25592,
             "ip_address": "185.83.153.44",
             "eula_blocked": false,
-            "retrieved_at": 1767210614609,
-            "expires_at": 1767210674609,
+            "retrieved_at": 1767211159791,
+            "expires_at": 1767211219791,
             "srv_record": null
         }
     },
@@ -299,8 +339,8 @@
             "port": 25565,
             "ip_address": null,
             "eula_blocked": false,
-            "retrieved_at": 1767210615139,
-            "expires_at": 1767210675139,
+            "retrieved_at": 1767211160214,
+            "expires_at": 1767211220214,
             "srv_record": null
         }
     },
@@ -323,25 +363,8 @@
             "port": 25565,
             "ip_address": "147.185.221.194",
             "eula_blocked": false,
-            "retrieved_at": 1767210620455,
-            "expires_at": 1767210680455,
-            "srv_record": null
-        }
-    },
-    {
-        "address": "catattack40.modrinth.gg",
-        "discord": null,
-        "tags": [],
-        "mods": [],
-        "statuspage": "https://mcstatus.io/status/java/catattack40.modrinth.gg",
-        "data": {
-            "online": false,
-            "host": "catattack40.modrinth.gg",
-            "port": 25565,
-            "ip_address": "23.109.123.217",
-            "eula_blocked": false,
-            "retrieved_at": 1767210625651,
-            "expires_at": 1767210685651,
+            "retrieved_at": 1767211165488,
+            "expires_at": 1767211225488,
             "srv_record": null
         }
     },
@@ -357,8 +380,8 @@
             "port": 25565,
             "ip_address": null,
             "eula_blocked": false,
-            "retrieved_at": 1767210626254,
-            "expires_at": 1767210686254,
+            "retrieved_at": 1767211167574,
+            "expires_at": 1767211227574,
             "srv_record": null
         }
     }
