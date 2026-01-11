@@ -13,8 +13,8 @@
             "port": 25567,
             "ip_address": "212.186.1.144",
             "eula_blocked": false,
-            "retrieved_at": 1768157227592,
-            "expires_at": 1768157287592,
+            "retrieved_at": 1768157954232,
+            "expires_at": 1768158014232,
             "srv_record": null,
             "version": {
                 "name_raw": "Purpur 1.21.11",
@@ -23,9 +23,15 @@
                 "protocol": 774
             },
             "players": {
-                "online": 2,
+                "online": 3,
                 "max": 20,
                 "list": [
+                    {
+                        "uuid": "f94b3b0c-5ab3-4816-ab7d-9fc355149d34",
+                        "name_raw": "Saberfox123",
+                        "name_clean": "Saberfox123",
+                        "name_html": "<span><span>Saberfox123</span></span>"
+                    },
                     {
                         "uuid": "9c9a0f6c-77c4-4f09-9a94-e42de5da168d",
                         "name_raw": "Fox_Staff",
@@ -65,8 +71,8 @@
             "port": 25565,
             "ip_address": "71.236.222.26",
             "eula_blocked": false,
-            "retrieved_at": 1768157224504,
-            "expires_at": 1768157284504,
+            "retrieved_at": 1768157950534,
+            "expires_at": 1768158010534,
             "srv_record": {
                 "host": "_dc-srv.27e703567964._minecraft._tcp.traingame.kncgaming.com",
                 "port": 25590
@@ -108,8 +114,8 @@
             "port": 25565,
             "ip_address": "136.243.118.35",
             "eula_blocked": false,
-            "retrieved_at": 1768157224892,
-            "expires_at": 1768157284892,
+            "retrieved_at": 1768157951035,
+            "expires_at": 1768158011035,
             "srv_record": {
                 "host": "copernicus.node.luunar.sh",
                 "port": 30003
@@ -151,8 +157,8 @@
             "port": 25565,
             "ip_address": "88.211.228.45",
             "eula_blocked": false,
-            "retrieved_at": 1768157226753,
-            "expires_at": 1768157286753,
+            "retrieved_at": 1768157953106,
+            "expires_at": 1768158013106,
             "srv_record": {
                 "host": "_dc-srv.a3a1840e8cad._minecraft._tcp.harpy.lorenzloening.com",
                 "port": 25732
@@ -200,8 +206,8 @@
             "port": 25565,
             "ip_address": "23.139.82.27",
             "eula_blocked": false,
-            "retrieved_at": 1768157226997,
-            "expires_at": 1768157286997,
+            "retrieved_at": 1768157953410,
+            "expires_at": 1768158013410,
             "srv_record": {
                 "host": "tmm.sleepyapril.net",
                 "port": 25567
@@ -240,8 +246,8 @@
             "port": 25592,
             "ip_address": "185.83.153.44",
             "eula_blocked": false,
-            "retrieved_at": 1768157228915,
-            "expires_at": 1768157288915,
+            "retrieved_at": 1768157955617,
+            "expires_at": 1768158015617,
             "srv_record": null,
             "version": {
                 "name_raw": "1.21.1",
@@ -266,46 +272,6 @@
         }
     },
     {
-        "address": "catattack40.modrinth.gg",
-        "discord": null,
-        "tags": [],
-        "mods": [],
-        "statuspage": "https://mcstatus.io/status/java/catattack40.modrinth.gg",
-        "data": {
-            "online": true,
-            "host": "catattack40.modrinth.gg",
-            "port": 25565,
-            "ip_address": "23.109.123.217",
-            "eula_blocked": false,
-            "retrieved_at": 1768157238624,
-            "expires_at": 1768157298624,
-            "srv_record": {
-                "host": "catattack40.modrinth.gg",
-                "port": 15056
-            },
-            "version": {
-                "name_raw": "1.20.1",
-                "name_clean": "1.20.1",
-                "name_html": "<span><span>1.20.1</span></span>",
-                "protocol": 763
-            },
-            "players": {
-                "online": 0,
-                "max": 20,
-                "list": []
-            },
-            "motd": {
-                "raw": "An MC Eternal 2 Server!",
-                "clean": "An MC Eternal 2 Server!",
-                "html": "<span><span>An MC Eternal 2 Server!</span></span>"
-            },
-            "icon": "data:image/png;base64,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",
-            "mods": [],
-            "software": null,
-            "plugins": []
-        }
-    },
-    {
         "address": "148.251.54.69:25580",
         "discord": null,
         "tags": [],
@@ -317,8 +283,8 @@
             "port": 25580,
             "ip_address": "148.251.54.69",
             "eula_blocked": false,
-            "retrieved_at": 1768157238905,
-            "expires_at": 1768157298905,
+            "retrieved_at": 1768157968043,
+            "expires_at": 1768158028043,
             "srv_record": null,
             "version": {
                 "name_raw": "Paper 1.21.4",
@@ -357,8 +323,8 @@
             "port": 25565,
             "ip_address": null,
             "eula_blocked": false,
-            "retrieved_at": 1768157225402,
-            "expires_at": 1768157285402,
+            "retrieved_at": 1768157951712,
+            "expires_at": 1768158011712,
             "srv_record": null
         }
     },
@@ -378,8 +344,8 @@
             "port": 25565,
             "ip_address": null,
             "eula_blocked": false,
-            "retrieved_at": 1768157227173,
-            "expires_at": 1768157287173,
+            "retrieved_at": 1768157953660,
+            "expires_at": 1768158013660,
             "srv_record": null
         }
     },
@@ -395,8 +361,8 @@
             "port": 25565,
             "ip_address": null,
             "eula_blocked": false,
-            "retrieved_at": 1768157230332,
-            "expires_at": 1768157290332,
+            "retrieved_at": 1768157957226,
+            "expires_at": 1768158017226,
             "srv_record": null
         }
     },
@@ -419,8 +385,25 @@
             "port": 25565,
             "ip_address": "147.185.221.194",
             "eula_blocked": false,
-            "retrieved_at": 1768157235605,
-            "expires_at": 1768157295605,
+            "retrieved_at": 1768157962551,
+            "expires_at": 1768158022551,
+            "srv_record": null
+        }
+    },
+    {
+        "address": "catattack40.modrinth.gg",
+        "discord": null,
+        "tags": [],
+        "mods": [],
+        "statuspage": "https://mcstatus.io/status/java/catattack40.modrinth.gg",
+        "data": {
+            "online": false,
+            "host": "catattack40.modrinth.gg",
+            "port": 25565,
+            "ip_address": "23.109.123.217",
+            "eula_blocked": false,
+            "retrieved_at": 1768157967751,
+            "expires_at": 1768158027751,
             "srv_record": null
         }
     },
@@ -436,8 +419,8 @@
             "port": 25565,
             "ip_address": null,
             "eula_blocked": false,
-            "retrieved_at": 1768157239091,
-            "expires_at": 1768157299091,
+            "retrieved_at": 1768157968308,
+            "expires_at": 1768158028308,
             "srv_record": null
         }
     }
