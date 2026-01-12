@@ -13,8 +13,8 @@
             "port": 25567,
             "ip_address": "212.186.1.144",
             "eula_blocked": false,
-            "retrieved_at": 1768244482619,
-            "expires_at": 1768244542619,
+            "retrieved_at": 1768246042036,
+            "expires_at": 1768246102036,
             "srv_record": null,
             "version": {
                 "name_raw": "Purpur 1.21.11",
@@ -65,8 +65,8 @@
             "port": 25565,
             "ip_address": "71.236.222.26",
             "eula_blocked": false,
-            "retrieved_at": 1768244478498,
-            "expires_at": 1768244538498,
+            "retrieved_at": 1768246038772,
+            "expires_at": 1768246098772,
             "srv_record": {
                 "host": "_dc-srv.27e703567964._minecraft._tcp.traingame.kncgaming.com",
                 "port": 25590
@@ -78,9 +78,22 @@
                 "protocol": 47
             },
             "players": {
-                "online": 0,
+                "online": 1,
                 "max": 2500,
-                "list": []
+                "list": [
+                    {
+                        "uuid": "fe642429-242e-4059-a2ee-25d53333f0a1",
+                        "name_raw": "Another236",
+                        "name_clean": "Another236",
+                        "name_html": "<span><span>Another236</span></span>"
+                    },
+                    {
+                        "uuid": "24a5f12e-0ce6-4c2c-831c-deae2e1df71b",
+                        "name_raw": "Doumafan",
+                        "name_clean": "Doumafan",
+                        "name_html": "<span><span>Doumafan</span></span>"
+                    }
+                ]
             },
             "motd": {
                 "raw": "Lobby Harpy Express | v1.2.6 | SuperHeroPuppy",
@@ -108,8 +121,8 @@
             "port": 25565,
             "ip_address": "136.243.118.35",
             "eula_blocked": false,
-            "retrieved_at": 1768244479074,
-            "expires_at": 1768244539074,
+            "retrieved_at": 1768246039178,
+            "expires_at": 1768246099178,
             "srv_record": {
                 "host": "copernicus.node.luunar.sh",
                 "port": 30003
@@ -151,8 +164,8 @@
             "port": 25565,
             "ip_address": "88.211.228.45",
             "eula_blocked": false,
-            "retrieved_at": 1768244481263,
-            "expires_at": 1768244541263,
+            "retrieved_at": 1768246041153,
+            "expires_at": 1768246101153,
             "srv_record": {
                 "host": "_dc-srv.a3a1840e8cad._minecraft._tcp.harpy.lorenzloening.com",
                 "port": 25732
@@ -200,8 +213,8 @@
             "port": 25565,
             "ip_address": "23.139.82.27",
             "eula_blocked": false,
-            "retrieved_at": 1768244481647,
-            "expires_at": 1768244541647,
+            "retrieved_at": 1768246041389,
+            "expires_at": 1768246101389,
             "srv_record": {
                 "host": "tmm.sleepyapril.net",
                 "port": 25567
@@ -240,8 +253,8 @@
             "port": 25592,
             "ip_address": "185.83.153.44",
             "eula_blocked": false,
-            "retrieved_at": 1768244484010,
-            "expires_at": 1768244544010,
+            "retrieved_at": 1768246043371,
+            "expires_at": 1768246103371,
             "srv_record": null,
             "version": {
                 "name_raw": "1.21.1",
@@ -277,8 +290,8 @@
             "port": 25580,
             "ip_address": "148.251.54.69",
             "eula_blocked": false,
-            "retrieved_at": 1768244496478,
-            "expires_at": 1768244556478,
+            "retrieved_at": 1768246055536,
+            "expires_at": 1768246115536,
             "srv_record": null,
             "version": {
                 "name_raw": "Paper 1.21.4",
@@ -317,8 +330,8 @@
             "port": 25565,
             "ip_address": null,
             "eula_blocked": false,
-            "retrieved_at": 1768244479831,
-            "expires_at": 1768244539831,
+            "retrieved_at": 1768246039814,
+            "expires_at": 1768246099814,
             "srv_record": null
         }
     },
@@ -338,8 +351,8 @@
             "port": 25565,
             "ip_address": null,
             "eula_blocked": false,
-            "retrieved_at": 1768244481915,
-            "expires_at": 1768244541915,
+            "retrieved_at": 1768246041575,
+            "expires_at": 1768246101575,
             "srv_record": null
         }
     },
@@ -355,8 +368,8 @@
             "port": 25565,
             "ip_address": null,
             "eula_blocked": false,
-            "retrieved_at": 1768244485591,
-            "expires_at": 1768244545591,
+            "retrieved_at": 1768246044827,
+            "expires_at": 1768246104827,
             "srv_record": null
         }
     },
@@ -379,8 +392,8 @@
             "port": 25565,
             "ip_address": "147.185.221.194",
             "eula_blocked": false,
-            "retrieved_at": 1768244490916,
-            "expires_at": 1768244550916,
+            "retrieved_at": 1768246050102,
+            "expires_at": 1768246110102,
             "srv_record": null
         }
     },
@@ -396,8 +409,8 @@
             "port": 25565,
             "ip_address": "23.109.123.217",
             "eula_blocked": false,
-            "retrieved_at": 1768244496128,
-            "expires_at": 1768244556128,
+            "retrieved_at": 1768246055249,
+            "expires_at": 1768246115249,
             "srv_record": null
         }
     },
@@ -413,8 +426,8 @@
             "port": 25565,
             "ip_address": null,
             "eula_blocked": false,
-            "retrieved_at": 1768244496740,
-            "expires_at": 1768244556740,
+            "retrieved_at": 1768246055731,
+            "expires_at": 1768246115731,
             "srv_record": null
         }
     }
