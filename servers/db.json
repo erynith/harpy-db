@@ -14,8 +14,8 @@
             "port": 25565,
             "ip_address": "136.243.118.35",
             "eula_blocked": false,
-            "retrieved_at": 1768717842466,
-            "expires_at": 1768717902466,
+            "retrieved_at": 1768719301164,
+            "expires_at": 1768719361164,
             "srv_record": {
                 "host": "copernicus.node.luunar.sh",
                 "port": 30003
@@ -106,8 +106,8 @@
             "port": 25565,
             "ip_address": "23.139.82.27",
             "eula_blocked": false,
-            "retrieved_at": 1768717845862,
-            "expires_at": 1768717905862,
+            "retrieved_at": 1768719303389,
+            "expires_at": 1768719363389,
             "srv_record": {
                 "host": "tmm.sleepyapril.net",
                 "port": 25567
@@ -148,8 +148,8 @@
             "port": 25567,
             "ip_address": "212.186.1.144",
             "eula_blocked": false,
-            "retrieved_at": 1768717848249,
-            "expires_at": 1768717908249,
+            "retrieved_at": 1768719305233,
+            "expires_at": 1768719365233,
             "srv_record": null,
             "version": {
                 "name_raw": "Purpur 1.21.11",
@@ -185,8 +185,8 @@
             "port": 25592,
             "ip_address": "185.83.153.44",
             "eula_blocked": false,
-            "retrieved_at": 1768717849642,
-            "expires_at": 1768717909642,
+            "retrieved_at": 1768719306608,
+            "expires_at": 1768719366608,
             "srv_record": null,
             "version": {
                 "name_raw": "1.21.1",
@@ -222,8 +222,8 @@
             "port": 25580,
             "ip_address": "148.251.54.69",
             "eula_blocked": false,
-            "retrieved_at": 1768717862108,
-            "expires_at": 1768717922108,
+            "retrieved_at": 1768719319057,
+            "expires_at": 1768719379057,
             "srv_record": null,
             "version": {
                 "name_raw": "Paper 1.21.4",
@@ -261,8 +261,8 @@
             "port": 25565,
             "ip_address": "71.236.222.26",
             "eula_blocked": false,
-            "retrieved_at": 1768717842016,
-            "expires_at": 1768717902016,
+            "retrieved_at": 1768719300725,
+            "expires_at": 1768719360725,
             "srv_record": null
         }
     },
@@ -302,8 +302,8 @@
             "port": 25565,
             "ip_address": null,
             "eula_blocked": false,
-            "retrieved_at": 1768717846125,
-            "expires_at": 1768717906125,
+            "retrieved_at": 1768719303684,
+            "expires_at": 1768719363684,
             "srv_record": null
         }
     },
@@ -319,8 +319,8 @@
             "port": 25565,
             "ip_address": null,
             "eula_blocked": false,
-            "retrieved_at": 1768717851229,
-            "expires_at": 1768717911229,
+            "retrieved_at": 1768719308168,
+            "expires_at": 1768719368168,
             "srv_record": null
         }
     },
@@ -343,8 +343,8 @@
             "port": 25565,
             "ip_address": "147.185.221.194",
             "eula_blocked": false,
-            "retrieved_at": 1768717856551,
-            "expires_at": 1768717916551,
+            "retrieved_at": 1768719313499,
+            "expires_at": 1768719373499,
             "srv_record": null
         }
     },
@@ -360,8 +360,8 @@
             "port": 25565,
             "ip_address": "23.109.123.217",
             "eula_blocked": false,
-            "retrieved_at": 1768717861757,
-            "expires_at": 1768717921757,
+            "retrieved_at": 1768719318698,
+            "expires_at": 1768719378698,
             "srv_record": null
         }
     },
@@ -377,8 +377,8 @@
             "port": 25565,
             "ip_address": null,
             "eula_blocked": false,
-            "retrieved_at": 1768717862360,
-            "expires_at": 1768717922360,
+            "retrieved_at": 1768719319312,
+            "expires_at": 1768719379312,
             "srv_record": null
         }
     }
